@@ -57,12 +57,16 @@
   <a href="https://github.com/Galaxy-sc/grandpa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=grandpa&theme=dracula" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/Galaxy-sc/Information-Hunter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=Information-Hunter&theme=dracula" />
   </a>
   <a href="https://github.com/Galaxy-sc/grandmom">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=grandmom&theme=dracula" />
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/Galaxy-sc/bash-for-web-penetration-testing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=bash-for-web-penetration-testing&theme=dracula" />
   </a>
