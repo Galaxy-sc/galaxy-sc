@@ -52,26 +52,26 @@
 
 <div align="center">
   <a href="https://github.com/Galaxy-sc/vulnerability-Checklist-farsi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=vulnerability-Checklist-farsi&theme=dracula" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=vulnerability-Checklist-farsi&theme=dracula" />
   </a>
   <a href="https://github.com/Galaxy-sc/grandpa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=grandpa&theme=dracula" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=grandpa&theme=dracula" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Galaxy-sc/Information-Hunter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=Information-Hunter&theme=dracula" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=Information-Hunter&theme=dracula" />
   </a>
   <a href="https://github.com/Galaxy-sc/grandmom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=grandmom&theme=dracula" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=grandmom&theme=dracula" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Galaxy-sc/bash-for-web-penetration-testing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=bash-for-web-penetration-testing&theme=dracula" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=bash-for-web-penetration-testing&theme=dracula" />
   </a>
   <a href="https://github.com/Galaxy-sc/crtsh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=crtsh&theme=dracula" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=crtsh&theme=dracula" />
   </a>
 </div>
 
