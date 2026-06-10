@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=root%40meysam%3A~%24+.%2Fhack_nasa.html" alt="Typing SVG" /></a>
+</h1>
 
 ###
 
@@ -47,33 +49,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Galaxy-sc/galaxy-sc/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Galaxy-sc/galaxy-sc/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://github.com/Galaxy-sc/vulnerability-Checklist-farsi">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=vulnerability-Checklist-farsi&theme=dracula" />
-  </a>
-  <a href="https://github.com/Galaxy-sc/grandpa">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=grandpa&theme=dracula" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Galaxy-sc/Information-Hunter">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=Information-Hunter&theme=dracula" />
-  </a>
-  <a href="https://github.com/Galaxy-sc/grandmom">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=grandmom&theme=dracula" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/Galaxy-sc/bash-for-web-penetration-testing">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=bash-for-web-penetration-testing&theme=dracula" />
-  </a>
-  <a href="https://github.com/Galaxy-sc/crtsh">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Galaxy-sc&repo=crtsh&theme=dracula" />
-  </a>
-</div>
 
 ###
 
