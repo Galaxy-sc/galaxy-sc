@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=root%40meysam%3A~%24+.%2Fhack_nasa.html" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=root%40meysam%3A~%24+.%2Fhack_nasa.html" alt="Typing SVG" /></a>
 </h1>
 
 ###
